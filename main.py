@@ -16,4 +16,4 @@ def piscar_led(tempo):
 
 # Loop principal
 while True:
-    piscar_led(0.5)
+    piscar_led(2)
